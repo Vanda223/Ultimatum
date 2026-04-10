@@ -1,4 +1,4 @@
-Changelog V2 : 
+Changelog V3: 
 - Disable Thermal
 - Easy Gamelist Access (Android/gamelist.txt)
 - Live System Logs
