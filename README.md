@@ -1,6 +1,6 @@
 # 🚀 Ultimatum - The Ultimate Android Gaming Module
 
-![Version](https://img.shields.io/badge/Version-v3.0.0-blue)
+![Version](https://img.shields.io/badge/Version-v4.0.0-blue)
 ![Platform](https://img.shields.io/badge/Platform-KernelSU%20%7C%20Magisk-success)
 ![Status](https://img.shields.io/badge/Status-Universal%20Support-orange)
 
