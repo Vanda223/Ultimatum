@@ -1,4 +1,4 @@
-# 🚀 Ultimatum - The Ultimate Android Gaming Module
+# 🚀 Ultimatum - True Universal Engine
 
 ![Version](https://img.shields.io/badge/Version-v4.0.0-blue)
 ![Platform](https://img.shields.io/badge/Platform-KernelSU%20%7C%20Magisk-success)
