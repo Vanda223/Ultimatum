@@ -1,10 +1,12 @@
-Changelog v5:
-• Support True Universal Engine (SDM & MTK)
-• Smart Auto-Gaming Daemon
-• Smart Universal Thermal Ultimatum 
-• Dynamic Real-Apps Scanner
-• New Logic Smart Fast Charging Protocol
-• New Design Banner
-• Fix Bug Big Core Auto-Restart
-• Fix Layout WebUI & Screen Resolution Button Function
-• Fix Deep RAM Flush & FSTRIM Storage
+Changelog v6:
+• Smart Radar Daemon
+• Hard-Lock CPU Governor
+• Thread & Big Core Pinning
+• Memory, I/O & Network Stability
+• VM & I/O Stability Tweaks
+• Dalvik AOT & Triple Buffering
+• TCP BBR Network Stabilizer
+• WebUI & User Experience
+• Deep System App Extractor
+• Render Tab
+etc.
